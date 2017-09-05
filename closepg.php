@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>Close page Test</title>
 </head>
-
+<!-- this is my change in closepb -->
 <body>
 <p>click on image to close the window</p>
 <a href="http://127.0.0.1/whizTrial%20Temp/welcome.php?event=popup" target="_blank"  onClick="javascript:window.close()" id="cpg" name="cpag"><img src="whiz.jpg" width="100px" height="50px" alt="whiztrain" /></a>
