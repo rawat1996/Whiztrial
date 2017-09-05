@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>About Us</title>
 </head>
-
+<!-- this is done by another developer --->
 <body>
 Welcome to About us
 </body>
